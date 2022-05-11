@@ -1,0 +1,2 @@
+	git checkout -b (Cria uma nova BRANCH e muda pra ela)
+
